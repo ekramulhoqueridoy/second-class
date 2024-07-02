@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#programming{
+    color: brown;
+    text-align: right;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+.coding{
+    color: brown;
+    text-align: right;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+#just{
+        color: darkorange;
+}
+.know{
+    color: blueviolet;
+}
+*{
+    text-align: center;
+}
+#first-section{
+    padding: 10px;
+    background-image: url('images/1.png');
+    background-repeat: repeat-x;
+    height: 500px;
+}
+#second-section{
+    padding: 20px;
+    background-image: url('images/2.png');
+    background-repeat: repeat-x;
+    height: 500px;
+}
+.china{
+    color: white;
+    margin: 40px;
+    border: 5px solid white ;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px mediumaquamarine ;
+    background-color: rgb(255, 0, 0);
+}
+.mars{
+    margin: 40px;
+    border: 10px solid yellow;
+    box-shadow: 10px 10px 10px green;
+    color: white;
+    background-color: black;
+}
+.download{
+    text-decoration: none;
+}
+h3{
+    font-size: 30px;
+    text-decoration: underline;
+}
+.blog{
+    margin: 20px;
+    border: 10px solid orangered;
+    box-shadow: 10px 10px 10px lightseagreen;
+}
+.first{
+    display: none;
+}
+.second{
+    visibility: hidden;
+}
+.third{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+}
+.span-tag{
+    border: 5px solid red;
+}
